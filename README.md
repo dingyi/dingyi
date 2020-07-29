@@ -21,3 +21,7 @@
     <li><a href="https://figma.page/">Figma 学习社区</a>: 基于 Notion 企业版的 Figma 学习平台。</li>
   </ul>
 </details>
+
+<a href="https://dingyi-now-playing.vercel.app/now-playing?open">
+    <img src="https://dingyi-now-playing.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
