@@ -9,7 +9,7 @@
   <samp>
     Hey 我是丁一 👋
     <br><br>
-    一个全栈设计师，base 在深圳和天津。曾在 36Kr 任设计总监，在 OPPO 做过设计管理。创过业，也常年自由职业过。创建了设计社区 <a href="https://dex.group">DEX Group</a>
+    一个全栈设计师，base 在深圳和天津。曾在 36Kr 任设计总监，在 OPPO 做过设计管理。创过业，也常年自由职业过。</a>
   </samp>
 </p>
 
