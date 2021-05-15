@@ -1,5 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dingyi&show_icons=true&&theme=synthwave" />
 
+[![](https://komarev.com/ghpvc/?username=dingyi&color=orange&label=Profile%20Views)](https://github.com/dingyi/dingyi)
+[![](https://img.shields.io/github/followers/dingyi?label=GitHub%20Followers)](https://github.com/dingyi)
+
 <p>
   <img src="https://github.com/dingyi/dingyi/raw/master/octorobot.gif" width="40px">
   <br><br>
@@ -21,9 +24,6 @@
     <li><a href="https://figma.page/">Figma 学习社区</a>: 基于 Notion 企业版的 Figma 学习平台。</li>
   </ul>
 </details>
-
-[![](https://komarev.com/ghpvc/?username=dingyi&color=orange&label=Profile%20Views)](https://github.com/dingyi/dingyi)
-[![](https://img.shields.io/github/followers/dingyi?label=GitHub%20Followers)](https://github.com/dingyi)
 
 <a href="https://dingyi-now-playing.vercel.app/now-playing?open">
     <img src="https://dingyi-now-playing.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
