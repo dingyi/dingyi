@@ -26,7 +26,7 @@
 [![](https://komarev.com/ghpvc/?username=dingyi&color=orange&label=Profile%20Views)](https://github.com/dingyi/dingyi)
 
 [![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:dingyimac@gmail.com)
-[![Twitter](https://img.shields.io/twitter/follow/dingyi?style=social](https://twitter.com/dingyi)
+[![Twitter](https://img.shields.io/twitter/follow/dingyi?style=social)](https://twitter.com/dingyi)
 [![Github](https://img.shields.io/github/followers/dingyi?label=GitHub%20Followers)](https://github.com/dingyi)
 
 ## Side Projects
@@ -38,6 +38,6 @@
     <li><a href="https://figma.page/">Figma 学习社区</a>: 基于 Notion 企业版的 Figma 学习平台。</li>
   </ul>
 
-<a href="https://dingyi-now-playing.vercel.app/now-playing?open">
+<a align='center' href="https://dingyi-now-playing.vercel.app/now-playing?open">
     <img src="https://dingyi-now-playing.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
