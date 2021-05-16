@@ -1,4 +1,4 @@
-# Hey 👋✌️
+# Hey ✌️
 
 <p>
   <img src="https://github.com/dingyi/dingyi/raw/master/octorobot.gif" width="40px">
